@@ -1,0 +1,3 @@
+using kmeans algorithm solve this problem:
+http://www.edureka.co/blog/implementing-kmeans-clustering-on-the-crime-dataset/
+
