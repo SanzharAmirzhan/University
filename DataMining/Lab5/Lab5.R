@@ -1,4 +1,4 @@
-#dataAll <- read.csv("~/Desktop/University/DataMining/Lab5/mushroom.txt", sep = " ", header=FALSE)
+#dataAll <- read.csv("~/Desktop/University/DataMining/Labs/Lab5/mushroom.txt", sep = " ", header=FALSE)
 #tableData = dataAll[1:23]
 
 charmAlgorithm <- function(minsup){

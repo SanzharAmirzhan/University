@@ -1,4 +1,4 @@
-#dataAll <- read.csv("~/Desktop/University/DataMining/Lab2/NumericDataAnalysis.txt", header=FALSE)
+#dataAll <- read.csv("~/Desktop/University/DataMining/Labs/Lab2/NumericDataAnalysis.txt", header=FALSE)
 #tableData = dataAll[1:10]
 
 #1

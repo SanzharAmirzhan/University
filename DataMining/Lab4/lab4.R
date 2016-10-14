@@ -1,4 +1,4 @@
-dataAll <- read.csv("~/Desktop/University/DataMining/Lab4/iris.txt", header=FALSE)
+dataAll <- read.csv("~/Desktop/University/DataMining/Labs/Lab4/iris.txt", header=FALSE)
 tableData <- dataAll[1:4]
 
 #kernel function

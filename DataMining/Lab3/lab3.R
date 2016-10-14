@@ -1,4 +1,4 @@
-dataAll <- read.csv("~/Desktop/University/DataMining/Lab3/adult.data.txt", header=FALSE)
+dataAll <- read.csv("~/Desktop/University/DataMining/Labs/Lab3/adult.data.txt", header=FALSE)
 tableData = dataAll[, c(4, 9)]
 
 edu <- list()
